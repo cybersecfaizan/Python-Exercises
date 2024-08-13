@@ -1,4 +1,3 @@
-
 #!/usr/bin/python
 # The below code finds the sum of all the multiples of 3 and 5 below 1000
 
