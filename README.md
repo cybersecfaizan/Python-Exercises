@@ -1,6 +1,6 @@
 # Python-Exercises
 
-[![python-pixel.png](https://i.postimg.cc/3RHFDpMv/python-pixel.png)](https://postimg.cc/QB0T2Fd8)
+[![python-pixel-removebg-preview.png](https://i.postimg.cc/SN88cRrL/python-pixel-removebg-preview.png)](https://postimg.cc/WhNhv2xt)
 
 ## Project Description
 
